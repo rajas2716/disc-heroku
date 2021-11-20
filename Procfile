@@ -1,0 +1,1 @@
+cmd: python bot.py
